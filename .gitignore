@@ -1,0 +1,11 @@
+# Archivos del sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Archivos pesados / temporales
+*.mp4
+*.mov
+*.dng
