@@ -1,8 +1,6 @@
-# Personal Dron Free Dataset (DronFDataset)
+# Personal Dron Free Dataset (DronDataset)
 
 Este repositorio es un proyecto personal creado para compartir de manera **libre y gratuita** fotografías aéreas capturadas con dron en diversos sectores de **Huaraz y el Callejón de Huaylas (Áncash, Perú)** 
-
-
 
 ![Muestra de Vuelos con Drone - Huaraz, Perú](collage.jpg)
 
